@@ -1,0 +1,930 @@
+SimpleXMLElement Object
+(
+    [title] => Smashing Magazine Feed
+    [subtitle] => For Professional Web Designers and Developers
+    [updated] => 2012-06-24T08:30:50Z
+    [link] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [@attributes] => Array
+                        (
+                            [rel] => alternate
+                            [type] => text/html
+                            [href] => http://www.smashingmagazine.com
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [@attributes] => Array
+                        (
+                            [rel] => self
+                            [type] => application/atom+xml
+                            [href] => http://rss1.smashingmagazine.com/feed/
+                        )
+
+                )
+
+        )
+
+    [id] => http://www.smashingmagazine.com/feed/atom/
+    [entry] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [author] => SimpleXMLElement Object
+                        (
+                            [name] => Smashing Editorial
+                            [uri] => http://www.smashingmagazine.com
+                        )
+
+                    [title] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => alternate
+                                            [type] => text/html
+                                            [href] => http://www.smashingmagazine.com/2012/06/21/css-round-up-part-1-new-and-powerful-css-techniques/
+                                        )
+
+                                )
+
+                            [1] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => replies
+                                            [type] => text/html
+                                            [href] => http://www.smashingmagazine.com/2012/06/21/css-round-up-part-1-new-and-powerful-css-techniques/#comments
+                                        )
+
+                                )
+
+                            [2] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => replies
+                                            [type] => application/atom+xml
+                                            [href] => http://www.smashingmagazine.com/2012/06/21/css-round-up-part-1-new-and-powerful-css-techniques/feed/atom/
+                                        )
+
+                                )
+
+                        )
+
+                    [id] => http://mgmt.smashingmagazine.com/?p=133661
+                    [updated] => 2012-06-21T14:30:31Z
+                    [published] => 2012-06-21T13:59:25Z
+                    [category] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [scheme] => http://www.smashingmagazine.com
+                                    [term] => Coding
+                                )
+
+                        )
+
+                    [summary] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                    [content] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [author] => SimpleXMLElement Object
+                        (
+                            [name] => Joseph Casabona
+                            [uri] => http://www.casabona.org
+                        )
+
+                    [title] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => alternate
+                                            [type] => text/html
+                                            [href] => http://www.smashingmagazine.com/2012/06/20/easily-customize-wordpress-default-functionality/
+                                        )
+
+                                )
+
+                            [1] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => replies
+                                            [type] => text/html
+                                            [href] => http://www.smashingmagazine.com/2012/06/20/easily-customize-wordpress-default-functionality/#comments
+                                        )
+
+                                )
+
+                            [2] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => replies
+                                            [type] => application/atom+xml
+                                            [href] => http://www.smashingmagazine.com/2012/06/20/easily-customize-wordpress-default-functionality/feed/atom/
+                                        )
+
+                                )
+
+                        )
+
+                    [id] => http://mgmt.smashingmagazine.com/?p=135695
+                    [updated] => 2012-06-20T08:11:37Z
+                    [published] => 2012-06-20T08:03:49Z
+                    [category] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [scheme] => http://www.smashingmagazine.com
+                                    [term] => WordPress
+                                )
+
+                        )
+
+                    [summary] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                    [content] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [author] => SimpleXMLElement Object
+                        (
+                            [name] => Paul Boag
+                            [uri] => http://www.boagworld.com
+                        )
+
+                    [title] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => alternate
+                                            [type] => text/html
+                                            [href] => http://www.smashingmagazine.com/2012/06/19/work-life-and-side-projects/
+                                        )
+
+                                )
+
+                            [1] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => replies
+                                            [type] => text/html
+                                            [href] => http://www.smashingmagazine.com/2012/06/19/work-life-and-side-projects/#comments
+                                        )
+
+                                )
+
+                            [2] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => replies
+                                            [type] => application/atom+xml
+                                            [href] => http://www.smashingmagazine.com/2012/06/19/work-life-and-side-projects/feed/atom/
+                                        )
+
+                                )
+
+                        )
+
+                    [id] => http://mgmt.smashingmagazine.com/?p=133267
+                    [updated] => 2012-06-20T13:37:10Z
+                    [published] => 2012-06-19T12:34:59Z
+                    [category] => Array
+                        (
+                            [0] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [scheme] => http://www.smashingmagazine.com
+                                            [term] => Opinion column
+                                        )
+
+                                )
+
+                            [1] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [scheme] => http://www.smashingmagazine.com
+                                            [term] => Business
+                                        )
+
+                                )
+
+                            [2] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [scheme] => http://www.smashingmagazine.com
+                                            [term] => productivity
+                                        )
+
+                                )
+
+                        )
+
+                    [summary] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                    [content] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                )
+
+            [3] => SimpleXMLElement Object
+                (
+                    [author] => SimpleXMLElement Object
+                        (
+                            [name] => Aral Balkan
+                            [uri] => http://www.aralbalkan.com
+                        )
+
+                    [title] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => alternate
+                                            [type] => text/html
+                                            [href] => http://www.smashingmagazine.com/2012/06/18/mobile-considerations-in-user-experience-design-web-or-native/
+                                        )
+
+                                )
+
+                            [1] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => replies
+                                            [type] => text/html
+                                            [href] => http://www.smashingmagazine.com/2012/06/18/mobile-considerations-in-user-experience-design-web-or-native/#comments
+                                        )
+
+                                )
+
+                            [2] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => replies
+                                            [type] => application/atom+xml
+                                            [href] => http://www.smashingmagazine.com/2012/06/18/mobile-considerations-in-user-experience-design-web-or-native/feed/atom/
+                                        )
+
+                                )
+
+                        )
+
+                    [id] => http://mgmt.smashingmagazine.com/?p=134908
+                    [updated] => 2012-06-19T07:43:09Z
+                    [published] => 2012-06-18T14:32:32Z
+                    [category] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [scheme] => http://www.smashingmagazine.com
+                                    [term] => Mobile
+                                )
+
+                        )
+
+                    [summary] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                    [content] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                )
+
+            [4] => SimpleXMLElement Object
+                (
+                    [author] => SimpleXMLElement Object
+                        (
+                            [name] => David Appleyard
+                        )
+
+                    [title] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => alternate
+                                            [type] => text/html
+                                            [href] => http://www.smashingmagazine.com/2012/06/18/freebie-academic-icon-set-10-png-psd-icons/
+                                        )
+
+                                )
+
+                            [1] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => replies
+                                            [type] => text/html
+                                            [href] => http://www.smashingmagazine.com/2012/06/18/freebie-academic-icon-set-10-png-psd-icons/#comments
+                                        )
+
+                                )
+
+                            [2] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => replies
+                                            [type] => application/atom+xml
+                                            [href] => http://www.smashingmagazine.com/2012/06/18/freebie-academic-icon-set-10-png-psd-icons/feed/atom/
+                                        )
+
+                                )
+
+                        )
+
+                    [id] => http://mgmt.smashingmagazine.com/?p=130442
+                    [updated] => 2012-06-18T20:32:05Z
+                    [published] => 2012-06-18T10:03:34Z
+                    [category] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [scheme] => http://www.smashingmagazine.com
+                                    [term] => Freebies
+                                )
+
+                        )
+
+                    [summary] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                    [content] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                )
+
+            [5] => SimpleXMLElement Object
+                (
+                    [author] => SimpleXMLElement Object
+                        (
+                            [name] => Rachel McCollin
+                            [uri] => http://compass-design.co.uk
+                        )
+
+                    [title] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => alternate
+                                            [type] => text/html
+                                            [href] => http://www.smashingmagazine.com/2012/06/15/responsive-images-with-wordpress-featured-images/
+                                        )
+
+                                )
+
+                            [1] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => replies
+                                            [type] => text/html
+                                            [href] => http://www.smashingmagazine.com/2012/06/15/responsive-images-with-wordpress-featured-images/#comments
+                                        )
+
+                                )
+
+                            [2] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => replies
+                                            [type] => application/atom+xml
+                                            [href] => http://www.smashingmagazine.com/2012/06/15/responsive-images-with-wordpress-featured-images/feed/atom/
+                                        )
+
+                                )
+
+                        )
+
+                    [id] => http://mgmt.smashingmagazine.com/?p=135201
+                    [updated] => 2012-06-19T11:19:26Z
+                    [published] => 2012-06-15T10:43:36Z
+                    [category] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [scheme] => http://www.smashingmagazine.com
+                                    [term] => Mobile
+                                )
+
+                        )
+
+                    [summary] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                    [content] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                )
+
+            [6] => SimpleXMLElement Object
+                (
+                    [author] => SimpleXMLElement Object
+                        (
+                            [name] => Chris Coyier
+                            [uri] => http://chriscoyier.net/
+                        )
+
+                    [title] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => alternate
+                                            [type] => text/html
+                                            [href] => http://www.smashingmagazine.com/2012/06/14/coding-qa-with-chris-coyier-box-sizing-and-css-sprites/
+                                        )
+
+                                )
+
+                            [1] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => replies
+                                            [type] => text/html
+                                            [href] => http://www.smashingmagazine.com/2012/06/14/coding-qa-with-chris-coyier-box-sizing-and-css-sprites/#comments
+                                        )
+
+                                )
+
+                            [2] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => replies
+                                            [type] => application/atom+xml
+                                            [href] => http://www.smashingmagazine.com/2012/06/14/coding-qa-with-chris-coyier-box-sizing-and-css-sprites/feed/atom/
+                                        )
+
+                                )
+
+                        )
+
+                    [id] => http://mgmt.smashingmagazine.com/?p=135143
+                    [updated] => 2012-06-14T16:02:07Z
+                    [published] => 2012-06-14T16:01:50Z
+                    [category] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [scheme] => http://www.smashingmagazine.com
+                                    [term] => Coding
+                                )
+
+                        )
+
+                    [summary] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                    [content] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                )
+
+            [7] => SimpleXMLElement Object
+                (
+                    [author] => SimpleXMLElement Object
+                        (
+                            [name] => Lyndon Cerejo
+                            [uri] => http://www.strategist.net
+                        )
+
+                    [title] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => alternate
+                                            [type] => text/html
+                                            [href] => http://www.smashingmagazine.com/2012/06/13/user-experience-takeaways-from-online-car-shopping/
+                                        )
+
+                                )
+
+                            [1] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => replies
+                                            [type] => text/html
+                                            [href] => http://www.smashingmagazine.com/2012/06/13/user-experience-takeaways-from-online-car-shopping/#comments
+                                        )
+
+                                )
+
+                            [2] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => replies
+                                            [type] => application/atom+xml
+                                            [href] => http://www.smashingmagazine.com/2012/06/13/user-experience-takeaways-from-online-car-shopping/feed/atom/
+                                        )
+
+                                )
+
+                        )
+
+                    [id] => http://mgmt.smashingmagazine.com/?p=134914
+                    [updated] => 2012-06-19T11:24:46Z
+                    [published] => 2012-06-13T12:03:03Z
+                    [category] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [scheme] => http://www.smashingmagazine.com
+                                    [term] => UX Design
+                                )
+
+                        )
+
+                    [summary] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                    [content] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                )
+
+            [8] => SimpleXMLElement Object
+                (
+                    [author] => SimpleXMLElement Object
+                        (
+                            [name] => Daniel Pataki
+                            [uri] => http://danielpataki.com
+                        )
+
+                    [title] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => alternate
+                                            [type] => text/html
+                                            [href] => http://www.smashingmagazine.com/2012/06/12/whats-new-in-wordpress-3-4/
+                                        )
+
+                                )
+
+                            [1] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => replies
+                                            [type] => text/html
+                                            [href] => http://www.smashingmagazine.com/2012/06/12/whats-new-in-wordpress-3-4/#comments
+                                        )
+
+                                )
+
+                            [2] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => replies
+                                            [type] => application/atom+xml
+                                            [href] => http://www.smashingmagazine.com/2012/06/12/whats-new-in-wordpress-3-4/feed/atom/
+                                        )
+
+                                )
+
+                        )
+
+                    [id] => http://mgmt.smashingmagazine.com/?p=134865
+                    [updated] => 2012-06-13T17:46:16Z
+                    [published] => 2012-06-12T17:44:38Z
+                    [category] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [scheme] => http://www.smashingmagazine.com
+                                    [term] => WordPress
+                                )
+
+                        )
+
+                    [summary] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                    [content] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                )
+
+            [9] => SimpleXMLElement Object
+                (
+                    [author] => SimpleXMLElement Object
+                        (
+                            [name] => Zack Grossbart
+                            [uri] => http://www.zackgrossbart.com
+                        )
+
+                    [title] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => alternate
+                                            [type] => text/html
+                                            [href] => http://www.smashingmagazine.com/2012/06/12/javascript-profiling-with-the-chrome-developer-tools/
+                                        )
+
+                                )
+
+                            [1] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => replies
+                                            [type] => text/html
+                                            [href] => http://www.smashingmagazine.com/2012/06/12/javascript-profiling-with-the-chrome-developer-tools/#comments
+                                        )
+
+                                )
+
+                            [2] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [rel] => replies
+                                            [type] => application/atom+xml
+                                            [href] => http://www.smashingmagazine.com/2012/06/12/javascript-profiling-with-the-chrome-developer-tools/feed/atom/
+                                        )
+
+                                )
+
+                        )
+
+                    [id] => http://mgmt.smashingmagazine.com/?p=134830
+                    [updated] => 2012-06-12T12:56:34Z
+                    [published] => 2012-06-12T12:54:45Z
+                    [category] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [scheme] => http://www.smashingmagazine.com
+                                    [term] => Coding
+                                )
+
+                        )
+
+                    [summary] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                    [content] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [type] => html
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
